@@ -26,9 +26,8 @@ SegmentedButton is a Material 3 widget that allows single or multiple selection 
 
 ## Run Instructions
 1. Clone this repository
-2. Ensure Flutter SDK is installed (3.0+)
-3. Run `flutter pub get`
-4. Run `flutter run`
+2. Run `flutter pub get`
+3. Run `flutter run`
 
 ## Three Key Properties Demonstrated
 
