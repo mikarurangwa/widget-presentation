@@ -42,6 +42,3 @@ SegmentedButton is a Material 3 widget that allows single or multiple selection 
 
 ## Use Case
 This demo implements a task priority filter where users can select multiple priority levels (Low, Medium, High) to filter their task list - a common pattern in productivity and e-commerce apps.
-
-## Use Case
-This demo implements a task priority filter where users can select multiple priority levels (Low, Medium, High) to filter their task list - a common pattern in productivity and e-commerce apps.
